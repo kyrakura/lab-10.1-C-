@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\project C++\lab 10.1 C++\lab 10.1 C++\lab 10.1 C++.cpp(20,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+     Создается библиотека D:\project C++\lab 10.1 C++\x64\Debug\UnitTest1.lib и объект D:\project C++\lab 10.1 C++\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\project C++\lab 10.1 C++\x64\Debug\UnitTest1.dll
